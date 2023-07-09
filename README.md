@@ -1,0 +1,5 @@
+# repo-first-test
+gitとgithubの使い方がわからねぇがとりあえずgithubDesktopからPublish
+
+おらおらおらおろあろあおらおろあおろあろあお
+りーどみーだぜ
